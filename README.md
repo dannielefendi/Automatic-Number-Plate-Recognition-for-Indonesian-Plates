@@ -8,7 +8,7 @@
 The model was trained with Yolov11 using [YoloV11 Model](https://universe.roboflow.com/roboflow-universe-projects/license-plate-recognition-rxg4e/dataset/4)
 
 # Project Setup
-### * Make an environment with python=3.10 using the following command <br />
+ - Make an environment with python=3.10 using the following command <br />
   ```python3 -m venv virtualenvname```
   
 ### - Activate the environment<br />
