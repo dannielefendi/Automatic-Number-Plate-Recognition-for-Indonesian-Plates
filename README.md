@@ -12,13 +12,18 @@ The model was trained with Yolov11 using [YoloV11 Model](https://universe.robofl
    ```
    python3 -m venv virtualenvname
    ```
-  <br />
-### - Activate the environment<br />
-  `source /path/to/venv/bin/activate` <br />
   
-### - Install the requirement library for the Environment <br />
-  `pip install -r requirement.txt` <br />
+ - Activate the environment <br />
+   ```
+   source /path/to/venv/bin/activate
+   ```
   
-### - Run the anpr.py with image sample in the zip file <br />
-  `python anpr.py` <br />
+- Install the requirement library for the Environment <br />
+   ```
+   pip install -r requirement.txt
+   ```
   
+- Run the anpr.py with image sample in the zip file <br />
+  ```
+  python anpr.py
+  ```
