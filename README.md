@@ -1,5 +1,9 @@
 # Automatic-Number-Plate-Recognition-for-Indonesian-Plates (ANPR)
-## License Plate Recognition for Indonesia License Plate Format with YOLOV11 Model and PaddleOCR to extract the plate number and save it to CSV File
+## License Plate Recognition for Indonesian Plate with YOLOV11 and PaddleOCR and save it to CSV File
+
+# Example
+![Detection](https://github.com/user-attachments/assets/692123bc-2f7b-4844-a24c-fb8c8551f8b8)
+
 
 # Model
 The model was trained with Yolov11 using [YoloV11 Model]([https://github.com/egier-outdoor](https://universe.roboflow.com/roboflow-universe-projects/license-plate-recognition-rxg4e/dataset/4))
