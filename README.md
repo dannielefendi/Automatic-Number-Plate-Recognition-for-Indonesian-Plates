@@ -1,5 +1,5 @@
 # Automatic-Number-Plate-Recognition-for-Indonesian-Plates (ANPR)
-## License Plate Recognition for Indonesian Plate with YOLOV11 and PaddleOCR and save it to CSV File
+ License Plate Recognition for Indonesian Plate with YOLOV11 and PaddleOCR and save it to CSV File
 
 # Example
 ![image_with_boxes](https://github.com/user-attachments/assets/6d0f3f10-4b5d-4fdb-abee-6edd2b6e7336)
