@@ -12,7 +12,7 @@ The model was trained with Yolov11 using [YoloV11 Model](https://universe.robofl
    ```
    python3 -m venv virtualenvname
    ```
-  
+  <br />
 ### - Activate the environment<br />
   `source /path/to/venv/bin/activate` <br />
   
