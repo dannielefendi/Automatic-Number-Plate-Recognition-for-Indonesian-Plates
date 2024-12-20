@@ -9,7 +9,9 @@ The model was trained with Yolov11 using [YoloV11 Model](https://universe.robofl
 
 # Project Setup
  - Make an environment with python=3.10 using the following command <br />
-  ```python3 -m venv virtualenvname```
+   ```
+   python3 -m venv virtualenvname
+   ```
   
 ### - Activate the environment<br />
   `source /path/to/venv/bin/activate` <br />
