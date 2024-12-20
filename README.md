@@ -2,6 +2,7 @@
  License Plate Recognition for Indonesian Plate with YOLOV11 Model and PaddleOCR and save it to CSV File
 
 # Example
+The plate was detected by the model
 ![image_with_boxes](https://github.com/user-attachments/assets/6d0f3f10-4b5d-4fdb-abee-6edd2b6e7336)
 
 # Model
