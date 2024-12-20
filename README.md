@@ -6,10 +6,11 @@ The model was trained with Yolov11 using [YoloV11 Model]([https://github.com/egi
 
 # Project Setup
 - Make an environment with python=3.10 using the following command
-  python3 -m venv virtualenvname
+  `python3 -m venv virtualenvname`
 - Activate the environment
-  source /path/to/venv/bin/activate
+  `source /path/to/venv/bin/activate`
 - Install the requirement library for the Environment
-  pip install -r requirement.txt
+  `pip install -r requirement.txt`
 - Run the anpr.py with image sample
+  `python anpr.py`
   
