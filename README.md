@@ -1,4 +1,4 @@
-# Automatic-Number-Plate-Recognition-for-Indonesian-Plates
+# Automatic-Number-Plate-Recognition-for-Indonesian-Plates (ANPR)
 License Plate Recognition for Indonesia License Plate Format with YOLOV11 Model and PaddleOCR to extract the plate number and save it to CSV File
 
 # Model
