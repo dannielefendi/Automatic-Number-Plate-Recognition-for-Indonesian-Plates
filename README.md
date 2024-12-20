@@ -5,7 +5,7 @@
 ![image_with_boxes](https://github.com/user-attachments/assets/6d0f3f10-4b5d-4fdb-abee-6edd2b6e7336)
 
 # Model
-The model was trained with Yolov11 using [YoloV11 Model]([https://github.com/egier-outdoor](https://universe.roboflow.com/roboflow-universe-projects/license-plate-recognition-rxg4e/dataset/4))
+The model was trained with Yolov11 using [YoloV11 Model](https://universe.roboflow.com/roboflow-universe-projects/license-plate-recognition-rxg4e/dataset/4)
 
 # Project Setup
 ### - Make an environment with python=3.10 using the following command <br />
